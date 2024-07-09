@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+}
+.nav-link{
+    font-size: 14px;
+}
+/* navbar styling start */
+.nav-sec-search{
+    border: 2px solid #e4ebe4;
+   
+}
+.navbar-brand{
+        max-width: 20%;
+}
+.navbar-nav{
+    padding-top: 10px;
+}
+.search-form-butn{
+    padding:7px 10px 7px 7px;
+
+}
+
+.form-control {
+    border: none; 
+    border-radius: 50px; 
+}
+
+.search-form-butn {
+    border: none; 
+}
+.nav-image-profile{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    margin-bottom: 12px;
+    
+}
+.nav-icon-link{
+    font-size: 22px;
+    padding: 10px;
+}
+.nav-icon-link-f{
+    font-size: 30px;
+    padding: 0px 10px;
+}
+/* Hero section styling start */
+.carousel-inner{
+    background: #1f57c3;
+}
+.hero-left-text-button{
+    font-size: 16px;
+    background: #14A800;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bolder;
+    color: white;
+}
+.profile-box-right{
+    padding: 40px 20px 30px 20px;
+   
+    
+}
+.profile-box-images{
+ 
+    margin-bottom: 10px;
+}
+.profile-box-progress-heading{
+    font-size: 16px;
+    line-height: 0px;
+    margin-top: 15px;
+}
+.P-bar{
+    border-radius: 0px;
+    height: 4px;
+    background-color: #14A800;
+}
+.profile-box-h{
+    font-size: 16px;
+    font-weight: bold;
+}
+.profile-box-subh{
+    font-size: 14px;
+    line-height: 5px;
+}
+.profile-box-progress-bar{
+    padding-top: 10px;
+}
+.searbar-sec-form{
+    border: 2px solid gray;
+}
+.job-section{
+   
+    border-radius: 15px;
+}
+.common-job-icons{
+    border: 2px solid grey;
+    font-size: 20px;
+}
+.job-data-properties{
+    font-size: 12px;
+    color: gray;
+}
+.job-data-requirements{
+    font-size: 14px;
+}
+.job-data-skills{
+    font-size: 12px;
+}
+.job-data-pro{
+    font-size: 12px;
+}
+.job-data-last{
+    font-size: 14px;
+}
+.footer{
+    background-color: #001E00;
+}
+.footer-links{
+    font-size: 14px;
+}
